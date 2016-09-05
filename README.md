@@ -4,5 +4,7 @@ Repositorio de trabajo para el proyecto de software 3 de la universidad del quin
 Integrantes:
 
 Juan Diego Buitrago
+
 Juan David Vasquez
+
 Juan Esteban Quintero
