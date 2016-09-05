@@ -1,5 +1,5 @@
 # Software3Proyecto
-Repositorio de trabajo para el proyecto de software 3 de la universidad del quindío 2016-2
+Repositorio de trabajo para el proyecto de software 3 de la Universidad del Quindío para el periodo 2016-2
 
 Integrantes:
 
