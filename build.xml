@@ -21,7 +21,7 @@
     <target name="run">
         <junit>
             <java jar="build/jar/HelloWorld.jar" fork="true"/>
-            <formatter type="xml">
+            <formatter type="xml" />
         </junit> 
     </target>
 
