@@ -19,7 +19,10 @@
     </target>
 
     <target name="run">
-        <java jar="build/jar/HelloWorld.jar" fork="true"/>
+        <junit>
+            <java jar="build/jar/HelloWorld.jar" fork="true"/>
+            <formatter type="xml">
+        </junit> 
     </target>
 
 </project>
